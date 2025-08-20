@@ -1,2 +1,11 @@
-# MT_POC_Doc
-Documentacion sobre el estudio MT_POC
+# Java Multihilo
+
+Multiproyecto de soporte y análisis del manejo de hilos en Java
+
+## Documentación
+
+- Resumen ejecutivo
+- Estudio
+- Diseño tecnico
+- Diseño tecnico detallado
+
